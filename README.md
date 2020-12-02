@@ -5,14 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ...ss
+- 🌱 I’m currently learning ...ss
+- 👯 I’m looking to collaborate on ...ss
+- 🤔 I’m looking for help with ...ss
+- 💬 Ask me about ...ss
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=mhendrif&count_private=true&show_icons=true&theme=dark)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MHendriF/MHendriF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHendriF&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MHendriF/MHendriF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHendriF&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
