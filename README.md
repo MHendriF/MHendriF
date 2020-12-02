@@ -1,31 +1,52 @@
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+### Hi there, I'm Muhamad Hendri Febriansyah 👋
 
-👨‍💻 Let's Learn and grow<br />
-⚡ Fun fact: I have a secret collection of ancient coins. <br />
-📫 Connect with me here:<br />
+## I'm a Developer and Software Engineer!
+- 🔭  I’m currently working on a [Detikcom][work]!
+- 🌱  I’m currently learning everything 🤣
+- 👯  I’m looking to collaborate with other content creators
+- 🥅  2020 Goals: Build PC.
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
-<p>
-	<a href="https://www.linkedin.com/in/m-hendri-febriansyah">
-		<img src="https://img.shields.io/badge/hendri-febriansyah-386938188?style=flat&logo=linkedin">
-	</a> &nbsp; 
-	<a href="https://twitter.com/hendrifbs">
-		<img src="https://img.shields.io/badge/@hendrifbs-30302f?style=flat&logo=twitter">
-	</a>
-</p>
+### Languages and Tools:
 
-Cheers!
-<p align="center">
-	<img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> 
-	<img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> 
-	<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> 
-	<img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> 
-	<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> 
-	<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40"/> 
-	<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="50" height="50"/>
-	<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
-	<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/>
-</p>
-<div align="center">&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhendrif&show_icons=true" alt="mhendrif" />
-</div>
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][website]
+[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+[<img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
+
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
+
+
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/laravel/laravel.png" />][website]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/django/django.png" />][website]
+
+<br />
+<br />
+
+---
+
+<img align="left" alt="Muhamad Hendri Febriansyah Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhendrif&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/adjipangstu
+[instagram]: https://instagram.com/adjipangstu
+[linkedin]: https://www.linkedin.com/in/adjipangestu/
