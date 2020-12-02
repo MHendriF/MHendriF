@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhamad Hendri Febriansyah 👋
 
 ## I'm a Developer and Software Engineer!
-- 🔭  I’m currently working on a [Detikcom][work]!
+- 🔭  I’m currently working on a 
 - 🌱  I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other content creators
 - 🥅  2020 Goals: Build PC.
@@ -47,6 +47,6 @@
 
 <img align="left" alt="Muhamad Hendri Febriansyah Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhendrif&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/adjipangstu
-[instagram]: https://instagram.com/adjipangstu
-[linkedin]: https://www.linkedin.com/in/adjipangestu/
+[twitter]: https://twitter.com/hendrifbs
+[instagram]: https://instagram.com/hendrifbs
+[linkedin]: https://www.linkedin.com/in/m-hendri-febriansyah/
