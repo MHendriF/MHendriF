@@ -7,10 +7,10 @@
 
 <p>
 	<a href="https://www.linkedin.com/in/m-hendri-febriansyah/">
-		<img src="https://img.shields.io/badge/m-hendri-febriansyah?style=flat&logo=linkedin">
+		<img src="https://img.shields.io/badge/hendri-febriansyah?style=flat&logo=linkedin">
 	</a> &nbsp; 
 	<a href="https://twitter.com/hendrifbs">
-		<img src="https://img.shields.io/badge/@hendrifbs?style=flat&logo=twitter">
+		<img src="https://img.shields.io/badge/@hendrifbs-30302f?style=flat&logo=twitter">
 	</a>
 </p>
 
