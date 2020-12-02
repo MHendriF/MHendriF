@@ -6,8 +6,8 @@
 <br />
 
 <p>
-	<a href="https://www.linkedin.com/in/m-hendri-febriansyah/">
-		<img src="https://img.shields.io/badge/hendri-febriansyah?style=flat&logo=linkedin">
+	<a href="https://www.linkedin.com/in/m-hendri-febriansyah">
+		<img src="https://img.shields.io/badge/hendri-febriansyah-386938188?style=flat&logo=linkedin">
 	</a> &nbsp; 
 	<a href="https://twitter.com/hendrifbs">
 		<img src="https://img.shields.io/badge/@hendrifbs-30302f?style=flat&logo=twitter">
