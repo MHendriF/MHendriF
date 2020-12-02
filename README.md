@@ -1,24 +1,31 @@
-### Hi there 👋
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
-<!--
-**MHendriF/MHendriF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Let's Learn and grow<br />
+⚡ Fun fact: I have a secret collection of ancient coins. <br />
+📫 Connect with me here:<br />
+<br />
 
-Here are some ideas to get you started:
+<p>
+	<a href="https://www.linkedin.com/in/m-hendri-febriansyah/">
+		<img src="https://img.shields.io/badge/akanksha-raghav-386938188?style=flat&logo=linkedin">
+	</a> &nbsp; 
+	<a href="https://twitter.com/hendrifbs">
+		<img src="https://img.shields.io/badge/@AkankshaRaghav9-30302f?style=flat&logo=twitter">
+	</a>
+</p>
 
-- 🔭 I’m currently working on ...ss
-- 🌱 I’m currently learning ...ss
-- 👯 I’m looking to collaborate on ...ss
-- 🤔 I’m looking for help with ...ss
-- 💬 Ask me about ...ss
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## &#x1f4c8; GitHub Stats
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MHendriF&layout=compact&theme=prussian)
-
-<a href="https://github.com/MHendriF/MHendriF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHendriF&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hendri's GitHub Stats" />
-</a>
+Cheers!
+<p align="center">
+	<img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> 
+	<img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> 
+	<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> 
+	<img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> 
+	<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> 
+	<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40"/> 
+	<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="50" height="50"/>
+	<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
+	<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/>
+</p>
+<div align="center">&nbsp;
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhendrif&show_icons=true" alt="mhendrif" />
+</div>
