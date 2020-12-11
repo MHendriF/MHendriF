@@ -33,7 +33,7 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/24228896/101877398-85d4af80-3bc0-11eb-9365-2088596daef2.png" />][website]
 <img align="left" alt="Liferay" width="26px" src="https://user-images.githubusercontent.com/24228896/101877416-8bca9080-3bc0-11eb-88f7-be269a41f828.jpeg" />
 
-![alt text](https://user-images.githubusercontent.com/24228896/101877416-8bca9080-3bc0-11eb-88f7-be269a41f828.jpeg "Liferay")
+!["Liferay"](https://user-images.githubusercontent.com/24228896/101877416-8bca9080-3bc0-11eb-88f7-be269a41f828.jpeg =26x "Liferay")
 
 <br />
 <br />
