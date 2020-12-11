@@ -33,8 +33,8 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/24228896/101877398-85d4af80-3bc0-11eb-9365-2088596daef2.png" />][website]
 <img align="left" alt="Liferay" width="26px" src="https://user-images.githubusercontent.com/24228896/101877416-8bca9080-3bc0-11eb-88f7-be269a41f828.jpeg" />
 
-![logo](https://user-images.githubusercontent.com/24228896/101877416-8bca9080-3bc0-11eb-88f7-be269a41f828.jpeg "Liferay"){:height="36px" width="36px"}
-*Sample Image With Caption*
+<img src="https://user-images.githubusercontent.com/24228896/101877416-8bca9080-3bc0-11eb-88f7-be269a41f828.jpeg" alt="Kitten" title="Liferay" width="36" height="36" />
+
 
 <br />
 <br />
