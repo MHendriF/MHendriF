@@ -1,9 +1,9 @@
 ### Hi there, I'm Muhamad Hendri Febriansyah 👋
 
-- 👨🏽‍💻 I’m currently developing apps;
-- 🌱 I’m currently learning android development ~✨; 
-- 🤔 My interests are with android developer;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently developing apps
+- 🌱 I’m currently learning android development ~✨
+- 🤔 My interests are with android developer
+- 💬 Ask me about anything, I am happy to help
 - 📫 Please [Email](mailto:hendrifebriansyah28@gmail.com) to reach me.
 
 <img src="https://komarev.com/ghpvc/?username=mhendrif&color=green&style=flat-square">
