@@ -5,24 +5,23 @@
 - 👨🏽‍💻 I’m currently developing apps
 - 🌱 I’m currently learning flutter ~✨
 - 🤔 My interests are in kotlin, flutter and laravel
-- 📫 Please [Email](mailto:hendrifebriansyah28@gmail.com) to reach me.
+- 📫 You can reach me at [email](mailto:hendrifebriansyah28@gmail.com)
 
 ## Connect with me
-
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[twitter]: https://twitter.com/hendrifbs
+[instagram]: https://instagram.com/hendrifbs
+[linkedin]: https://www.linkedin.com/in/m-hendri-febriansyah/
 
-
-## Github Stats
-
+## ⚙️ Github Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=mhendrif&show_icons=true&theme=radical&count_private=true&hide=prs" alt="celvine"       width="534"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhendrif&theme=radical&layout=compact&langs_count=10&hide=blade&count_private=true" width="300"/>
 </div>
 
 ## 🔥 Technologies & Tools
-
 <div>
 	<img align="left" title="PHP" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 	<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -41,6 +40,4 @@
 	<img align="left" title="Liferay" alt="Liferay" width="26px" src="https://user-images.githubusercontent.com/24228896/101882389-68a3df00-3bc8-11eb-92b7-5861516cecea.png" />
 </div>
 
-[twitter]: https://twitter.com/hendrifbs
-[instagram]: https://instagram.com/hendrifbs
-[linkedin]: https://www.linkedin.com/in/m-hendri-febriansyah/
+
