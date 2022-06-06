@@ -21,7 +21,7 @@
 
 ## 🔥 Technologies & Tools
 <div>
-  <img src="assets/html.svg" width="36px" height="36px" alt="HTML" style="padding: 15px; background: #1f2233" />
+  <img src="assets/html.svg" width="36px" height="36px" alt="HTML" style="padding: 15px; background: red" />
   <img src="assets/css.svg" width="36px" height="36px" alt="CSS" style="padding: 15px; background: #1f2233" />
   <img src="assets/javascript.svg" width="36px" height="36px" alt="Javascript" style="padding: 15px; background: #1f2233" />
   <img src="assets/php.svg" width="36px" height="36px" alt="PHP" style="padding: 15px; background: #1f2233" />
@@ -37,6 +37,7 @@
   <img src="assets/nginx.svg" width="36px" height="36px" alt="Nginx" style="padding: 15px; background: #1f2233" />
   <img src="assets/mysql.svg" width="36px" height="36px" alt="MySql" style="padding: 15px; background: #1f2233" />
   <img src="assets/mongodb.svg" width="36px" height="36px" alt="MongoDB" style="padding: 15px; background: #1f2233" />
+  <img src="assets/liferay.svg" width="36px" height="36px" alt="Liferay" style="padding: 15px; background: #1f2233" />
 </div>
 
 [twitter]: https://twitter.com/hendrifbs
