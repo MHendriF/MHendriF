@@ -11,6 +11,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
 
 ## ⚙️ Github Stats
 <div>
@@ -20,22 +21,22 @@
 
 ## 🔥 Technologies & Tools
 <div>
-  <img src="assets/html.svg" width="64px" height="64px" alt="HTML"/>
-  <img src="assets/css.svg" width="64px" height="64px" alt="CSS"/>
-  <img src="assets/javascript.svg" width="64px" height="64px" alt="Javascript"/>
-  <img src="assets/php.svg" width="64px" height="64px" alt="PHP"/>
-  <img src="assets/cpanel.svg" width="64px" height="64px" alt="Cpanel"/>
-  <img src="assets/java.svg" width="64px" height="64px" alt="Java"/>
-  <img src="assets/kotlin.svg" width="64px" height="64px" alt="Kotlin"/>
-  <img src="assets/dart.svg" width="64px" height="64px" alt="Dart"/>
-  <img src="assets/bootstrap.svg" width="64px" height="64px" alt="Bootstrap"/>
-  <img src="assets/git.svg" width="64px" height="64px" alt="Git"/>
-  <img src="assets/laravel.svg" width="64px" height="64px" alt="Laravel"/>
-  <img src="assets/flutter.svg" width="64px" height="64px" alt="Flutter"/>
-  <img src="assets/apache.svg" width="64px" height="64px" alt="Apache"/>
-  <img src="assets/nginx.svg" width="64px" height="64px" alt="Nginx"/>
-  <img src="assets/mysql.svg" width="64px" height="64px" alt="MySql"/>
-  <img src="assets/mongodb.svg" width="64px" height="64px" alt="MongoDB"/>
+  <img src="assets/html.svg" width="36px" height="36px" alt="HTML" style="padding: 15px; background: #1f2233" />
+  <img src="assets/css.svg" width="36px" height="36px" alt="CSS" style="padding: 15px; background: #1f2233" />
+  <img src="assets/javascript.svg" width="36px" height="36px" alt="Javascript" style="padding: 15px; background: #1f2233" />
+  <img src="assets/php.svg" width="36px" height="36px" alt="PHP" style="padding: 15px; background: #1f2233" />
+  <img src="assets/cpanel.svg" width="36px" height="36px" alt="Cpanel" style="padding: 15px; background: #1f2233" />
+  <img src="assets/java.svg" width="36px" height="36px" alt="Java" style="padding: 15px; background: #1f2233" />
+  <img src="assets/kotlin.svg" width="36px" height="36px" alt="Kotlin" style="padding: 15px; background: #1f2233" />
+  <img src="assets/dart.svg" width="36px" height="36px" alt="Dart" style="padding: 15px; background: #1f2233" />
+  <img src="assets/bootstrap.svg" width="36px" height="36px" alt="Bootstrap" style="padding: 15px; background: #1f2233" />
+  <img src="assets/git.svg" width="36px" height="36px" alt="Git" style="padding: 15px; background: #1f2233" />
+  <img src="assets/laravel.svg" width="36px" height="36px" alt="Laravel" style="padding: 15px; background: #1f2233" />
+  <img src="assets/flutter.svg" width="36px" height="36px" alt="Flutter" style="padding: 15px; background: #1f2233" />
+  <img src="assets/apache.svg" width="36px" height="36px" alt="Apache" style="padding: 15px; background: #1f2233" />
+  <img src="assets/nginx.svg" width="36px" height="36px" alt="Nginx" style="padding: 15px; background: #1f2233" />
+  <img src="assets/mysql.svg" width="36px" height="36px" alt="MySql" style="padding: 15px; background: #1f2233" />
+  <img src="assets/mongodb.svg" width="36px" height="36px" alt="MongoDB" style="padding: 15px; background: #1f2233" />
 </div>
 
 [twitter]: https://twitter.com/hendrifbs
