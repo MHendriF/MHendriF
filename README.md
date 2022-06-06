@@ -20,25 +20,22 @@
 
 ## 🔥 Technologies & Tools
 <div>
-  <img src="images/JS.svg" width="64px" height="64px" alt="JavaScript"/>
-  <img src="images/Vue.svg" width="64px" height="64px" alt="VueJs"/>
-  <img src="images/React.svg" width="64px" height="64px" alt="ReactJs"/>
-  <img src="images/Css.svg" width="64px" height="64px" alt="Css"/>
-  <img src="images/Sass.svg" width="64px" height="64px" alt="Sass"/>
-  <img src="images/Bootstrap.svg" width="64px" height="64px" alt="Bootrap"/>
-  <img src="images/Tailwindcss.svg" width="64px" height="64px" alt="TailwindCss"/>
-  <img src="images/Php.svg" width="64px" height="64px" alt="PHP"/>
-  <img src="images/Laravel.svg" width="64px" height="64px" alt="Laravel"/>
-  <img src="images/Composer.svg" width="64px" height="64px" alt="Composer"/>
-  <img src="images/Xampp.svg" width="64px" height="64px" alt="xampp"/>
-  <img src="images/Node.svg" width="64px" height="64px" alt="NodeJs"/>
-  <img src="images/Express.svg" width="64px" height="64px" alt="ExpressJs"/>
-  <img src="images/Mysql.svg" width="64px" height="64px" alt="Mysql"/>
-  <img src="images/Dart.svg" width="64px" height="64px" alt="Dart"/>
-  <img src="images/Flutter.svg" width="64px" height="64px" alt="Flutter"/>
-  <img src="images/JetpackCompose.svg" width="64px" height="64px" alt="JetPackCompose"/>
-  <img src="images/Postman.svg" width="64px" height="64px" alt="MongoDb"/>
-  <img src="images/Python.svg" width="64px" height="64px" alt="Python"/>
+  <img src="assets/html.svg" width="64px" height="64px" alt="HTML"/>
+  <img src="assets/css.svg" width="64px" height="64px" alt="CSS"/>
+  <img src="assets/javascript.svg" width="64px" height="64px" alt="Javascript"/>
+  <img src="assets/php.svg" width="64px" height="64px" alt="PHP"/>
+  <img src="assets/cpanel.svg" width="64px" height="64px" alt="Cpanel"/>
+  <img src="assets/java.svg" width="64px" height="64px" alt="Java"/>
+  <img src="assets/kotlin.svg" width="64px" height="64px" alt="Kotlin"/>
+  <img src="assets/dart.svg" width="64px" height="64px" alt="Dart"/>
+  <img src="assets/bootstrap.svg" width="64px" height="64px" alt="Bootstrap"/>
+  <img src="assets/git.svg" width="64px" height="64px" alt="Git"/>
+  <img src="assets/laravel.svg" width="64px" height="64px" alt="Laravel"/>
+  <img src="assets/flutter.svg" width="64px" height="64px" alt="Flutter"/>
+  <img src="assets/apache.svg" width="64px" height="64px" alt="Apache"/>
+  <img src="assets/nginx.svg" width="64px" height="64px" alt="Nginx"/>
+  <img src="assets/mysql.svg" width="64px" height="64px" alt="MySql"/>
+  <img src="assets/mongodb.svg" width="64px" height="64px" alt="MongoDB"/>
 </div>
 
 [twitter]: https://twitter.com/hendrifbs
