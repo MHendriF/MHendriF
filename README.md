@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@mhendrife">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://twitter.com/mndrife">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -23,11 +23,6 @@
 - 🤔 My interests are in kotlin, flutter and laravel
 - 📫 You can reach me at [email](mailto:hendrifebriansyah28@gmail.com)
 
-## ❤ Connect with me
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
 
 ## ⚙️ Github Stats
 <div>
@@ -53,9 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32px" height="32px" alt="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="32px" height="32px" alt="MySql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="32px" height="32px" alt="MongoDB" />
-  <img src="assets/liferay.svg" width="32px" height="32px" alt="Liferay" />
+  <img src="assets/liferay.png" width="32px" height="32px" alt="Liferay" />
+  <img src="assets/cpanel.svg" width="32px" height="32px" alt="CPanel" />
 </div>
-
-[twitter]: https://twitter.com/hendrifbs
-[instagram]: https://instagram.com/hendrifbs
-[linkedin]: https://www.linkedin.com/in/m-hendri-febriansyah/
