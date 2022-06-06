@@ -21,23 +21,23 @@
 
 ## 🔥 Technologies & Tools
 <div>
-  <img src="assets/html.svg" width="36px" height="36px" alt="HTML" style="padding: 15px; background: red" />
-  <img src="assets/css.svg" width="36px" height="36px" alt="CSS" style="padding: 15px; background: #1f2233" />
-  <img src="assets/javascript.svg" width="36px" height="36px" alt="Javascript" style="padding: 15px; background: #1f2233" />
-  <img src="assets/php.svg" width="36px" height="36px" alt="PHP" style="padding: 15px; background: #1f2233" />
-  <img src="assets/cpanel.svg" width="36px" height="36px" alt="Cpanel" style="padding: 15px; background: #1f2233" />
-  <img src="assets/java.svg" width="36px" height="36px" alt="Java" style="padding: 15px; background: #1f2233" />
-  <img src="assets/kotlin.svg" width="36px" height="36px" alt="Kotlin" style="padding: 15px; background: #1f2233" />
-  <img src="assets/dart.svg" width="36px" height="36px" alt="Dart" style="padding: 15px; background: #1f2233" />
-  <img src="assets/bootstrap.svg" width="36px" height="36px" alt="Bootstrap" style="padding: 15px; background: #1f2233" />
-  <img src="assets/git.svg" width="36px" height="36px" alt="Git" style="padding: 15px; background: #1f2233" />
-  <img src="assets/laravel.svg" width="36px" height="36px" alt="Laravel" style="padding: 15px; background: #1f2233" />
-  <img src="assets/flutter.svg" width="36px" height="36px" alt="Flutter" style="padding: 15px; background: #1f2233" />
-  <img src="assets/apache.svg" width="36px" height="36px" alt="Apache" style="padding: 15px; background: #1f2233" />
-  <img src="assets/nginx.svg" width="36px" height="36px" alt="Nginx" style="padding: 15px; background: #1f2233" />
-  <img src="assets/mysql.svg" width="36px" height="36px" alt="MySql" style="padding: 15px; background: #1f2233" />
-  <img src="assets/mongodb.svg" width="36px" height="36px" alt="MongoDB" style="padding: 15px; background: #1f2233" />
-  <img src="assets/liferay.svg" width="36px" height="36px" alt="Liferay" style="padding: 15px; background: #1f2233" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="36px" height="36px" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36px" height="36px" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36px" height="36px" alt="Javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36px" height="36px" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36px" height="36px" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36px" height="36px" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36px" height="36px" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="36px" height="36px" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36px" height="36px" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36px" height="36px" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="36px" height="36px" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"width="36px" height="36px" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36px" height="36px" alt="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36px" height="36px" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="36px" height="36px" alt="MySql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="36px" height="36px" alt="MongoDB" />
+  <img src="assets/liferay.svg" width="36px" height="36px" alt="Liferay" />
 </div>
 
 [twitter]: https://twitter.com/hendrifbs
