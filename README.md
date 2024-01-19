@@ -19,8 +19,8 @@
 ### Hi there, I'm Muhamad Hendri Febriansyah 👋
 
 - 👨🏽‍💻 I’m currently developing apps
-- 🌱 I’m currently learning react ~✨
-- 🤔 My interests are in web apps(laravel, react) and mobile apps(kotlin, flutter)
+- 🌱 I’m currently learning python, ML, react ~✨
+- 🤔 My interests are in web apps(laravel, react) and mobile apps(kotlin)
 - 📫 You can reach me in [here](mailto:hendrifebriansyah28@gmail.com)
 
 ## :fire: Github Stats
