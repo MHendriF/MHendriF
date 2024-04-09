@@ -1,54 +1,36 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/m-hendri-febriansyah">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@mhendrife">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://twitter.com/mndrife">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=mhendrif&color=green&style=flat-square">
-</div>
+<a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
-### Hi there, I'm Muhamad Hendri Febriansyah 👋
+<h1 align="center">Hi Everyone! I'm Alfend</h1>
 
+## 🚀 About Me 
 - 👨🏽‍💻 I’m currently developing apps
 - 🌱 I’m currently learning python, ML, react ~✨
 - 🤔 My interests are in web apps(laravel, react) and mobile apps(kotlin)
 - 📫 You can reach me in [here](mailto:hendrifebriansyah28@gmail.com)
 
-## :fire: Github Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mhendrif&show_icons=true&theme=radical&count_private=true&hide=prs" alt="celvine"       width="534"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhendrif&theme=radical&layout=compact&langs_count=10&hide=blade&count_private=true" width="300"/>
-</div>
+## 📊 Stats
+<p align="left">
+<a href="https://github.com/alfendio">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhendrif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhendrif&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-## :hammer_and_wrench: Technologies & Tools
-<div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32px" height="32px" alt="C++" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32px" height="32px" alt="Bash" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32px" height="32px" alt="Java" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32px" height="32px" alt="Kotlin" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="32px" height="32px" alt="Dart" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px" height="32px" alt="HTML" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32px" height="32px" alt="CSS" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" height="32px" alt="Javascript" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32px" height="32px" alt="PHP" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32px" height="32px" alt="Firebase" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32px" height="32px" alt="Bootstrap" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32px" height="32px" alt="Git" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="32px" height="32px" alt="Laravel" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"width="32px" height="32px" alt="Flutter" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="32px" height="32px" alt="Apache" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32px" height="32px" alt="Nginx" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="32px" height="32px" alt="MySql" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="32px" height="32px" alt="MongoDB" />
-	<img src="assets/liferay.png" width="32px" height="32px" alt="Liferay" />
-	<img src="assets/cpanel.svg" width="32px" height="32px" alt="CPanel" />
-</div>
+
+## 📄 Certifications
+- Dicoding [Memulai Pemrograman dengan Kotlin](https://www.dicoding.com/certificates/GRX5Q4WJYZ0M)
+- Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/JLX124VVJZ72)
+- Dicoding [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/NVP774NNOPR0)
+- Dicoding [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/1OP8N4RR2XQK)
+- Dicoding [Menjadi Android Developer Expert](https://www.dicoding.com/certificates/ERZR510GNPYV)
+- Dicoding [Memulai Pemrograman dengan Dart](https://www.dicoding.com/certificates/NVP7KKNL4ZR0)
+- Dicoding [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/98XWRG54WZM3)
+- Dicoding [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/JMZVD3JORZN9)
+- Dicoding [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/1OP8NWKYVXQK)
+- Dicoding [Belajar Dasar Data Science](https://www.dicoding.com/certificates/4EXGK7OW9ZRL)
+- Dicoding [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/0LZ026ER0X65)
+- Dicoding [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/N9ZOO922DZG5)
+- Dicoding [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/6RPNW1LRQP2M)
+- Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/2VX3NL8NNXYQ)
+- Dicoding [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/certificates/07Z6WO87YZQR)
+- Dicoding [Belajar Fundamental Aplikasi Web dengan React](https://www.dicoding.com/certificates/4EXGQY96QZRL)
