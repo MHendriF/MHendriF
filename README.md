@@ -25,11 +25,11 @@
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=Visual%20studio%20code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vite-informational?style=flat&logo=vite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
@@ -38,6 +38,8 @@
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Plesk-informational?style=flat&logo=plesk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-cPanel-informational?style=flat&logo=cPanel&logoColor=white&color=2bbc8a)
 
 ## 📄 Certifications
 - Dicoding [Memulai Pemrograman dengan Kotlin](https://www.dicoding.com/certificates/GRX5Q4WJYZ0M)
