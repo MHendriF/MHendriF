@@ -3,8 +3,8 @@
 <h1 align="center">Hi Everyone! I'm Hendri</h1>
 
 ## 🚀 About Me 
-- 👨🏽‍💻 I’m currently developing apps
-- 🌱 I’m currently learning python, ML, react ~✨
+- 👨🏽‍💻 I’m currently developing android apps
+- 🌱 I’m currently learning python, machine learning, react.js, next.js ~✨
 - 🤔 My interests are in web apps(laravel, react) and mobile apps(kotlin)
 - 📫 You can reach me in [here](mailto:hendrifebriansyah28@gmail.com)
 
