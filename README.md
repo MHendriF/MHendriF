@@ -8,7 +8,7 @@
 
 ## 🚀 About Me 
 - 👨🏽‍💻 I’m currently developing apps
-- 🌱 I’m currently learning Python, ML, React, Next JS, and Compose ~✨
+- 🌱 I’m currently learning Python, Machine learning, React, Next JS, and Compose ~✨
 - 🤔 My interests are in web apps(laravel, react, nextjs) and mobile apps(kotlin)
 - 📫 You can reach me in [here](mailto:hendrifebriansyah28@gmail.com)
 
