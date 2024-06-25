@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MHendriF.MHendriF" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Hendri+Febriansyah!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=535&height=70&lines=Hi+There;I'm+Hendri+Febriansyah!" alt="Typing SVG" />
 </h1>
 
 ## 🚀 About Me 
