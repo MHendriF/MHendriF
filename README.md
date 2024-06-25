@@ -1,23 +1,28 @@
 <a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
-<h1 align="center">Hi Everyone! I'm Hendri</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MHendriF.MHendriF" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Hendri+Febriansyah!;" />
+</h1>
 
 ## 🚀 About Me 
 - 👨🏽‍💻 I’m currently developing apps
-- 🌱 I’m currently learning python, ML, react ~✨
-- 🤔 My interests are in web apps(laravel, react) and mobile apps(kotlin)
+- 🌱 I’m currently learning Python, ML, React, Next JS, and Compose ~✨
+- 🤔 My interests are in web apps(laravel, react, nextjs) and mobile apps(kotlin)
 - 📫 You can reach me in [here](mailto:hendrifebriansyah28@gmail.com)
 
 ## 📊 Stats
-<p align="left">
-<a href="https://github.com/MHendriF">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhendrif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhendrif&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MHendriF&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=MHendriF&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHendriF&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 
 ## ✨ Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -39,7 +44,14 @@
 ![](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Plesk-informational?style=flat&logo=plesk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-cPanel-informational?style=flat&logo=cPanel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-cPanel-informational?style=flat&logo=cPanel&logoColor=white&color=2bbc8a) -->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,dart,py,php,css,html" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,react,redux,nextjs,vue,tailwind,bootstrap,androidstudio,vite,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=vercel,vscode,firebase,figma,git,postman,linux" /><br>
+</div>
+
 
 ## 📄 Certifications
 - Dicoding [Memulai Pemrograman dengan Kotlin](https://www.dicoding.com/certificates/GRX5Q4WJYZ0M)
