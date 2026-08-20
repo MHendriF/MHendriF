@@ -86,10 +86,10 @@
 ### 📊 GitHub Analytics & Statistics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MHendriF&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10&count_private=true" alt="Hendri's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MHendriF&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="Hendri's Streak Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHendriF&theme=tokyonight" alt="GitHub Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MHendriF&theme=tokyonight" alt="Languages Overview" />
   <br/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHendriF&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHendriF&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
