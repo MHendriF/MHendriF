@@ -10,7 +10,7 @@
     real-time mission-critical dashboards, and high-concurrency mobile & AI applications.
   </p>
 
-  <!-- Badges / Links -->
+  <!-- Primary Links & Socials -->
   <p align="center">
     <a href="https://portfolio-mhf.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-portfolio--mhf.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -24,6 +24,22 @@
     <a href="mailto:hendrifebriansyah28@gmail.com">
       <img src="https://img.shields.io/badge/Email-hendrifebriansyah28@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+  </p>
+
+  <!-- Quick Resume PDF Downloads -->
+  <p align="center">
+    <strong>📥 Download ATS Resume:</strong><br/>
+    <strong>🇺🇸 Global (EN):</strong>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Muhamad_Hendri_Febriansyah_Resume.pdf"><img src="https://img.shields.io/badge/Master_Resume-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Master EN" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Frontend_Engineer.pdf"><img src="https://img.shields.io/badge/Frontend_Track-0284c7?style=flat-square&logo=react&logoColor=white" alt="Frontend EN" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Android_Engineer.pdf"><img src="https://img.shields.io/badge/Android_Track-16a34a?style=flat-square&logo=android&logoColor=white" alt="Android EN" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Web3_Engineer.pdf"><img src="https://img.shields.io/badge/Web3_Track-7c3aed?style=flat-square&logo=ethereum&logoColor=white" alt="Web3 EN" /></a>
+    <br/>
+    <strong>🇮🇩 Domestik (ID):</strong>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Muhamad_Hendri_Febriansyah_Resume_ID.pdf"><img src="https://img.shields.io/badge/Resume_Master-b91c1c?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Master ID" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Frontend_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Frontend-0284c7?style=flat-square&logo=react&logoColor=white" alt="Frontend ID" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Android_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Android-16a34a?style=flat-square&logo=android&logoColor=white" alt="Android ID" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Web3_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Web3-7c3aed?style=flat-square&logo=ethereum&logoColor=white" alt="Web3 ID" /></a>
   </p>
 
   <p align="center">
@@ -42,6 +58,26 @@
 - 🏛️ **GovTech & Enterprise Solutions**: Delivered national civil servant credit scoring backends for **Kemdikbudristek RI (EPAK Widyaprada)**, virtual exhibition portals (**Efosh**), and enterprise claim systems for **Petrokimia Gresik** (*Laravel 12/10, AWS S3, MySQL, Midtrans*).
 - 🎓 **Academic Foundation**: Bachelor of Computer Science (**S.Kom.**) in Informatics Engineering from **Institut Teknologi Sepuluh Nopember (ITS Surabaya)**, specialized in *Network Centric Computing & Distributed Systems*.
 
+<details>
+<summary><b>🇮🇩 Klik untuk membaca Ringkasan Eksekutif dalam Bahasa Indonesia</b></summary>
+
+<br/>
+
+> **Muhamad Hendri Febriansyah** adalah Senior Software Engineer dengan pengalaman 6+ tahun merancang arsitektur Web2 dan Web3 berskala tinggi. Rekam jejak mencakup memimpin antarmuka Command Center NTMC Polri (< 500ms latensi), memodernisasi aplikasi Android PT Aku Pintar Indonesia hingga melayani 1,5 juta+ pengguna aktif (crash-free 99,42%), serta membangun sistem kecerdasan buatan dan dApp multi-chain di Kipley Pte. Ltd. (Singapura). Lulusan S1 Teknik Informatika ITS Surabaya.
+
+</details>
+
+---
+
+### 💡 Core Engineering Principles
+
+| Principle | Engineering Standard & Focus |
+| :--- | :--- |
+| 🏗️ **Clean & Modular Architecture** | Strict separation of concerns (Clean Architecture, MVVM, Feature-driven folders) to guarantee maintainability and high code reuse across large teams. |
+| ⚡ **Performance & Low Latency** | Sub-second Time to Interactive (TTI), aggressive bundle minimization, real-time WebSocket pipelines (<500ms), and 60fps mobile rendering. |
+| 🛡️ **End-to-End Type Safety** | Zero runtime surprises through strict schema validation and full-stack typing using TypeScript, Zod, TanStack, and Kotlin. |
+| 🚀 **Resilience & Scalability** | Zero-downtime releases, 99.42%+ crash-free sessions across 1.5M+ active users, and fault-tolerant transaction settlement. |
+
 ---
 
 ### 🚀 Featured Engineering & Flagship Projects
@@ -52,6 +88,19 @@
 | **[Superior Agents](https://github.com/MHendriF)** | **Kipley Pte. Ltd. (Singapore)**<br/>*(Web3 & AI Portal)* | `Next.js 15` `Turbopack` `Solidity` `Wagmi v2` `TON SDK` `Telegram Mini Apps` | Autonomous multi-agent Web3 assistant with non-custodial wallet auth, fiat Stripe on-ramp, and multi-chain settlement. |
 | **[Aku Pintar EdTech](https://github.com/MHendriF)** | **PT Aku Pintar Indonesia**<br/>*(EdTech Mobile / Web)* | `Kotlin` `Android Jetpack` `MVVM` `Clean Architecture` `Java OSGi / Liferay` | Scaled native Android app to **1.5M+ active users**, automated nationwide RIASEC psychometrics & WebRTC counseling. |
 | **[EPAK Widyaprada](https://github.com/MHendriF)** | **Kemdikbudristek RI**<br/>*(National Civil Service)* | `Laravel 8/10` `MySQL` `AWS S3 Flysystem` `Yajra DataTables` `Midtrans Snap` | 100% digitalized national credit scoring workflow for thousands of functional officials with zero security incidents. |
+
+---
+
+### ⭐ Featured Repositories & Open Vault
+
+<div align="center">
+
+| Repository | Focus & Highlights | Tech Stack | Quick Link |
+| :--- | :--- | :--- | :---: |
+| **[my-resume](https://github.com/MHendriF/my-resume)** | 🧠 Interactive Career Graph, multi-track ATS resume generator, and complete C4 architectural documentation vault. | `HTML5`, `TypeScript`, `GitHub Actions`, `Mermaid`, `PDF Engine` | [🌐 Live Site](https://mhendrif.github.io/my-resume/) |
+| **[MHendriF](https://github.com/MHendriF/MHendriF)** | ✨ GitHub Profile Showcase featuring dynamic analytics, automated contribution snake game, and modern visual design. | `Markdown`, `SVG Animations`, `GitHub Actions` | [⭐ Repository](https://github.com/MHendriF/MHendriF) |
+
+</div>
 
 ---
 
