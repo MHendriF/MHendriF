@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Header -->
   <a href="https://portfolio-mhf.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=65&lines=Hi+there,+I'm+Hendri+Febriansyah+%F0%9F%91%8B;Senior+Software+Engineer+%F0%9F%9A%80;Frontend+%E2%80%A2+Full+Stack+%E2%80%A2+Android+%E2%80%A2+Web3;Architecting+Scalable+Mission-Critical+Systems+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=65&lines=Hi+there,+I'm+Hendri+Febriansyah+%F0%9F%91%8B;Senior+Software+Engineer+%F0%9F%9A%80;Frontend+%E2%80%A2+Full+Stack+%E2%80%A2+Android+%E2%80%A2+Web3;Architecting+Scalable+Mission-Critical+Systems+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Portfolio-portfolio--mhf.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/m-hendri-febriansyah">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://mhendrif.github.io/my-resume/">
       <img src="https://img.shields.io/badge/Live_Career_Graph-GitHub_Pages-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Resume" />
@@ -30,16 +30,16 @@
   <p align="center">
     <strong>📥 Download ATS Resume:</strong><br/>
     <strong>🇺🇸 Global (EN):</strong>
-    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Muhamad_Hendri_Febriansyah_Resume.pdf"><img src="https://img.shields.io/badge/Master_Resume-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Master EN" /></a>
-    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Frontend_Engineer.pdf"><img src="https://img.shields.io/badge/Frontend_Track-0284c7?style=flat-square&logo=react&logoColor=white" alt="Frontend EN" /></a>
-    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Android_Engineer.pdf"><img src="https://img.shields.io/badge/Android_Track-16a34a?style=flat-square&logo=android&logoColor=white" alt="Android EN" /></a>
-    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Web3_Engineer.pdf"><img src="https://img.shields.io/badge/Web3_Track-7c3aed?style=flat-square&logo=ethereum&logoColor=white" alt="Web3 EN" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Muhamad_Hendri_Febriansyah_Resume.pdf"><img src="https://img.shields.io/badge/Master_Resume-PDF-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Master EN" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Frontend_Engineer.pdf"><img src="https://img.shields.io/badge/Frontend_Track-PDF-0284c7?style=flat-square&logo=react&logoColor=white" alt="Frontend EN" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Android_Engineer.pdf"><img src="https://img.shields.io/badge/Android_Track-PDF-16a34a?style=flat-square&logo=android&logoColor=white" alt="Android EN" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/en/Resume_Web3_Engineer.pdf"><img src="https://img.shields.io/badge/Web3_Track-PDF-7c3aed?style=flat-square&logo=ethereum&logoColor=white" alt="Web3 EN" /></a>
     <br/>
     <strong>🇮🇩 Domestik (ID):</strong>
-    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Muhamad_Hendri_Febriansyah_Resume_ID.pdf"><img src="https://img.shields.io/badge/Resume_Master-b91c1c?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Master ID" /></a>
-    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Frontend_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Frontend-0284c7?style=flat-square&logo=react&logoColor=white" alt="Frontend ID" /></a>
-    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Android_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Android-16a34a?style=flat-square&logo=android&logoColor=white" alt="Android ID" /></a>
-    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Web3_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Web3-7c3aed?style=flat-square&logo=ethereum&logoColor=white" alt="Web3 ID" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Muhamad_Hendri_Febriansyah_Resume_ID.pdf"><img src="https://img.shields.io/badge/Resume_Master-PDF-b91c1c?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Master ID" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Frontend_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Frontend-PDF-0284c7?style=flat-square&logo=react&logoColor=white" alt="Frontend ID" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Android_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Android-PDF-16a34a?style=flat-square&logo=android&logoColor=white" alt="Android ID" /></a>
+    <a href="https://github.com/MHendriF/my-resume/raw/main/output/id/Resume_Web3_Engineer_ID.pdf"><img src="https://img.shields.io/badge/Jalur_Web3-PDF-7c3aed?style=flat-square&logo=ethereum&logoColor=white" alt="Web3 ID" /></a>
   </p>
 
   <p align="center">
@@ -174,13 +174,13 @@
 
   <p align="center">
     <a href="https://portfolio-mhf.vercel.app">
-      <img src="https://img.shields.io/badge/Visit_Portfolio-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/m-hendri-febriansyah">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:hendrifebriansyah28@gmail.com">
-      <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
