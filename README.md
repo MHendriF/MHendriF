@@ -94,6 +94,18 @@
 
 ---
 
+### 🐍 Contribution Activity (Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHendriF/MHendriF/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHendriF/MHendriF/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub Contribution Snake Game" src="https://raw.githubusercontent.com/MHendriF/MHendriF/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
 ### 📜 Certifications & Credentials
 
 - 🏅 **Dicoding Indonesia** — [Menjadi Android Developer Expert (MADE)](https://www.dicoding.com/certificates/ERZR510GNPYV)
